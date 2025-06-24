@@ -61,10 +61,18 @@ A **Streamlit-based AI-powered application** that uses autonomous **CrewAI agent
 - Ensures readability and factual accuracy  
 
 ---
-
 ## 📂 App Flow
-![Flow (1)](https://github.com/user-attachments/assets/102369a5-cb14-4fbd-9463-935888aaf903)
 
-## Results
-![Screenshot 2025-06-23 002209](https://github.com/user-attachments/assets/7093203c-366d-443e-ad67-715b0549a774)
-![Screenshot 2025-06-23 002707](https://github.com/user-attachments/assets/eb9a88d2-27a3-4abb-8bcf-8b48447de9c8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/102369a5-cb14-4fbd-9463-935888aaf903" alt="App Flow" width="80%">
+</p>
+
+## 📝 Results
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7093203c-366d-443e-ad67-715b0549a774" alt="Screenshot 1" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb9a88d2-27a3-4abb-8bcf-8b48447de9c8" alt="Screenshot 2" width="80%">
+</p>
